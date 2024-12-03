@@ -10,7 +10,8 @@ console.log('***** Object Practice *****')
 */
 const me = {
   firstName: "ismail",
-  
+  lastName: "hassan",
+
   
   // TODO - add properties here
 };
