@@ -11,6 +11,7 @@ console.log('***** Object Practice *****')
 const me = {
   firstName: "ismail",
   lastName: "hassan",
+  hasSiblings: true,
 
   
   // TODO - add properties here
